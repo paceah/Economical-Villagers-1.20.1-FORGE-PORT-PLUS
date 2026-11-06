@@ -1,0 +1,21 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Конфигурация Economical Villager Trading недоступна",
+  "text.economical_villager_trading.no_config_screen.message": "Установите MidnightLib для включения конфигурации.",
+  "economical_villager_trading.midnightconfig.title": "Конфигурация Economical Villager Trading",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Регулировка баланса торговли с жителями",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Влияет на то, насколько быстро сделки с жителями обновляются.\nЧем больше значение, тем медленнее житель будет пополнять запасы, где «-1» — стандартная регулировка.\nПолностью отключает этот вид регулировки значение в 100 и выше.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Включить корректировку цен в соответствии с репутацией",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Позволяет корректировать сделки за такие вещи, как причинение вреда жителям, исцеление зомби-жителей и просто частые сделки.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Множитель опыта жителей",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Множитель, применяемый к опыту, выдаваемому жителями.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Включить повышение уровня жителей во время торговли",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Как правило, жители не повышают свой уровень, пока вы торгуете с ними.\nЭта опция позволяет им повысить свой уровень.",
+  "text.economical_villager_trading.trade_closed_limit_title": "Сделка распродана",
+  "text.economical_villager_trading.trade_closed_limit": "Поторгуйте, прокачайте или подождите рестока",
+
+  "text.economical_villager_trading.trade_closed_early_title": "Сделка заморожена",
+  "text.economical_villager_trading.trade_closed_early": "Разблокируется немного позже - ждите"
+}

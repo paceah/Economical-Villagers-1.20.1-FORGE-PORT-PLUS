@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Конфигурация Economical Villager Trading недоступна",
+  "text.economical_villager_trading.no_config_screen.message": "Встановіть MidnightLib, щоб увімкнути конфігурацію.",
+  "economical_villager_trading.midnightconfig.title": "Конфігурація Economical Villager Trading",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Редагувати баланс торгівлі з селянином",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Впливає на те, як швидко змінюються торгівлі селян внаслідок використання.\nЧим більше значення, тим повільніше селянин поповнюватиме запаси, де -1 — стандартне регулювання.\nЗначення 100 або більше повністю вимикає цей вид коригування.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Увімкнути коригування цін відповідно до репутації",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Дозволити коригування торгівлі для таких речей, як заподіяння шкоди селянам,\nлікування зомбі-селян і просто часті торгівлі.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Множник досвіду селянина",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Множник, який застосовується до досвіду, що видається селянами.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Увімкнути підвищення рівня селян під час торгівлі",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Як правило, селяни не підвищують свій рівень, доки ви торгуєте з ними.\nЦя опція дозволяє підвищити їм рівень."
+}

@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Economical Villager Tradingの設定が利用出来ません",
+  "text.economical_villager_trading.no_config_screen.message": "MidnightLibをインストールして、構成を有効にします。",
+  "economical_villager_trading.midnightconfig.title": "Economical Villager Tradingの設定",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "村人の取引残高の調整",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "使用によって村人の交易がどれだけ早く調整されるかに影響します。\n数値が大きいほど変化が遅くなり、-1はバニラ調整を使用します。\n100以上の値は、この種の調整を完全に無効にします。",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "評判値の調整を有効化",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "村人を傷つけたり、\n村人ゾンビを治療したり、頻繁に取引するなどの取引調整を可能にします。",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "村人経験値の倍数",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "村人が付与した経験値に乗数を適用しました",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "取引中に村人レベルアップを有効化",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "通常、村人は取引中はレベルアップしません\nこのオプションを使用するとレベルアップできます"
+}

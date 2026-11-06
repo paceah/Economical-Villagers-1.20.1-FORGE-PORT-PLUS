@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "Nova mecânica de aprovisionamento de aldeões",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Os aldeões aprovisionam compras quando esgotas vendas, e vice-versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Configuração Economic Villager Trading indisponível",
+  "text.economical_villager_trading.no_config_screen.message": "Instalar MidnightLib para permitir a configuração.",
+  "economical_villager_trading.midnightconfig.title": "Configurar Economical Villager Trading",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Ajustar Saldo de Troca com Aldeões",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Afeta a rapidez com que as trocas dos aldeões se ajustam devido à utilização.\nNúmeros altos fazem com que mude mais lentamente, -1 utiliza os ajustamentos padrão.\nUm valor de 100 ou maior desativa por completo esta categoria de ajuste.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Ativar Ajuste de Preços de Reputação",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Permitir ajuste de trocas para coisas como ferir aldeões,\ncurar zombies aldeões, e trocas justas frequentes.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Multiplicador de Experiência de Aldeão",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Multiplicador aplicado à experiência concedida pelos aldeões.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Permitir subida de nível de aldeão durante a troca",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Em condições normais os aldeões não sobem de nível enquanto se troca com eles.\nEsta opção permite que subam de nível."
+}

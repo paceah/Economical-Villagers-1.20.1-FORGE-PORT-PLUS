@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Канфігурацыя Economical Villager Trading недаступная",
+  "text.economical_villager_trading.no_config_screen.message": "Усталюйце MidnightLib для ўключэння канфігурацыі.",
+  "economical_villager_trading.midnightconfig.title": "Канфігурацыя Economical Villager Trading",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Рэгуляванне балансу гандлю з сялянамі",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Уплывае на тое, наколькі хутка угоды з сялянамі абнаўляюцца.\nЧым больш значэнне, тым павольней селянін будзе папаўняць запасы, дзе -1 — стандартнае рэгуляванне.\nЦалкам адключае гэты від рэгулявання значэнне ў 100 і вышэй.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Уключыць карэкціроўку коштаў у адпаведнасці з рэпутацыяй",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Дазваляе карэктаваць гандаль за такія рэчы, як прычыненне шкоды сялянам,\nвылячэнне мерцвякоў-сялян і проста частыя угоды.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Множнік досведу сялян",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Множнік, які ўжываецца да досведу, які выдаецца сялянамі.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Уключыць павышэнне ўзроўню сялян падчас гандлю",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Як правіла, сяляне не павышаюць свой узровень, пакуль вы гандлюеце з імі.\nГэтая опцыя дазваляе ім павысіць свой узровень."
+}

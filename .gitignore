@@ -1,0 +1,41 @@
+# Build and development output
+/.gradle/
+/build/
+/bin/
+/out/
+/run/
+/runs/
+/logs/
+/mcmodsrepo/
+
+# IDE and machine-specific settings
+/.idea/
+/.settings/
+/.metadata/
+/.classpath
+/.project
+*.iml
+*.ipr
+*.iws
+*.launch
+.vscode/
+local.properties
+gradle-local.properties
+
+# Credentials, private keys and local environment
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+credentials.json
+secrets.json
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+forge*changelog.txt

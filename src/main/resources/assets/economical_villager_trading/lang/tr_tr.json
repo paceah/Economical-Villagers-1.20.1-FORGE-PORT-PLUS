@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "Yeni köylü stok yenileme mekaniği",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Köylüler siz bir satış takasını (ya da tam tersini) bitirdiğinizde stoklarını yeniler.",
+  "text.economical_villager_trading.no_config_screen.title": "Economical Villager Trading Ayarları Kullanılamıyor",
+  "text.economical_villager_trading.no_config_screen.message": "Ayarları etkinleştirmek için MidnightLib'i yükleyin.",
+  "economical_villager_trading.midnightconfig.title": "Economical Villager Trading Ayarları",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Köylü Takası Ayar Dengesi",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Köylülerin kullanıma göre nasıl ayak uydurduğunu etkiler.\nYüksek sayılar değişimi yavaşlatır, -1 vanilla uyumlarını kullanır.\n100 ya da daha yüksek bir değer bu tür bir uyumu tamamen kapatır.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "İtibara Göre Ürün Uyumunu Etkinleştir",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Köylülere hasar, zombi köylü iyileştirme ve sık takas\ngibi takas uyumlarına izin ver.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Köylü XP Çarpanı",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Köylülerden alınan XP'ye uygulanan çarpan.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Takas yaparken köylülerin seviye atlamalarını etkinleştir",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Normalde köylüler siz takas yaparken seviye atlamaz.\nBu ayar seviye atlamalarına izin verir."
+}

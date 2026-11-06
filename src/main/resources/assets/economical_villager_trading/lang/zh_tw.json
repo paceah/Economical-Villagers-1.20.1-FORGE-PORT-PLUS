@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "「Economical Villager Trading」配置不可用",
+  "text.economical_villager_trading.no_config_screen.message": "安裝「MidnightLib」以啟用配置。",
+  "economical_villager_trading.midnightconfig.title": "「Economical Villager Trading」配置",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "村民交易調整平衡",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "影響村民交易因使用而調整的速度。\n數字越大，變化越慢，-1 則使用原版調整。\n100 或更大的值可完全禁用這種調整。",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "啟用聲譽價格調整",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "允許對傷害村民、治癒僵屍村民\n和頻繁交易等事情進行交易調整。",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "村民經驗倍數",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "倍數適用于村民給予的經驗。",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "在交易時啟用村民升級",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "通常村民不會在你與他們交易時升級。\n此選項允許他們升級。"
+}

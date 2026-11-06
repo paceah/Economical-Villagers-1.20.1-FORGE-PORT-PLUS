@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "Les configurations du commerce économical avec les villageois ne sont pas disponibles",
+  "text.economical_villager_trading.no_config_screen.message": "Installez MidnightLib pour accéder aux configurations.",
+  "economical_villager_trading.midnightconfig.title": "Configurations du commerce économical avec les villageois",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Ajuster l'équilibre des offres des villageois",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Changes la vitesse a laquelle les offres sont affectées.\nUn nombre élevé signifie que le villageois réapprovisionera plus lentement, -1 utilisera les changes par défaut.\nSi le nombre est égal ou suppérieur à 100, cela désactivera complètement les effets.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Activer les effets de réputation",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Permet d'affecter la valeur des offres lorsque le joueur attaque un villageois,\nguéris un zombie-villageois ainsi que les effets de l'offre et la demande.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Multiplicateur de l'expéerience reçue en commerçant",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Valeur par laquelle l'expérience que les villaegois donnent lorsqu'un échange est accomplis est multipliée.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Autoriser les villageois à monter en niveau lors d'une session de commerce",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Normalement, les villageois ne montent pas en niveau pendant le commerce.\ncette option autorise les villageois a monter en niveau sans quitter la fenêtre."
+}

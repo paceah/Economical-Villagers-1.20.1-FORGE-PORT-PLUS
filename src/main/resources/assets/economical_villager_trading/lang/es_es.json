@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading": "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+  "text.economical_villager_trading.no_config_screen.title": "${name} Configuration Unavailable",
+  "text.economical_villager_trading.no_config_screen.message": "§cInstall MidnightLib to enable configuration.",
+  "economical_villager_trading.midnightconfig.title": "Opciones de Economical Villager Trading",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Ajuste de balance",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "Afecta qué tan rápido se reabastecen los aldeanos.\\nValores altos lo hacen más lento, el valor -1 usa los ajustes vanilla.",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "Ajustes de reputación",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "Permite ajustes a los comercios por cosas como herir aldeanos,\\ncurar aldeanos zombis y comerciar frecuentemente.",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Multiplicador de experiencia",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "Multiplicador aplicado al otorgar experiencia al comerciar.",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "Subir de nivel mientras se comercia",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "Normalmente los aldeanos no suben de nivel mientras se está comerciando con ellos.\\nEsta opción se los permite."
+}

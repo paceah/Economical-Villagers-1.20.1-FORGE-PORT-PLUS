@@ -1,0 +1,16 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+  "modmenu.summaryTranslation.economical_villager_trading": "新村民补货机制",
+  "modmenu.descriptionTranslation.economical_villager_trading": "当您用尽卖出交易时，村民会补充买入交易，反之亦然。",
+  "text.economical_villager_trading.no_config_screen.title": "“Economical Villager Trading”配置不可用",
+  "text.economical_villager_trading.no_config_screen.message": "安装“MidnightLib”以启用配置。",
+  "economical_villager_trading.midnightconfig.title": "“Economical Villager Trading”配置",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "村民交易调整平衡",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip": "影响村民交易因使用而调整的速度。\n数字越大，变化越慢，-1 则使用原版调整。\n100 或更大的值可完全禁用这种调整。",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments": "启用声誉价格调整",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip": "允许对伤害村民、治愈僵尸村民\n和频繁交易等事情进行交易调整。",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "村民经验倍数",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip": "倍数适用于村民给予的经验。",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading": "在交易时启用村民升级",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip": "通常村民不会在你与他们交易时升级。\n此选项允许他们升级。"
+}

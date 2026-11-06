@@ -1,0 +1,41 @@
+{
+  "text.economical_villager_trading.name": "Economical Villager Trading",
+
+  "modmenu.summaryTranslation.economical_villager_trading": "New villager restock mechanic",
+  "modmenu.descriptionTranslation.economical_villager_trading":
+  "Villagers restock buy trades when you use up a sell trade, and vice versa.",
+
+  "text.economical_villager_trading.no_config_screen.title": "${name} Configuration Unavailable",
+  "text.economical_villager_trading.no_config_screen.message": "§cInstall MidnightLib to enable configuration.",
+
+  "economical_villager_trading.midnightconfig.title": "Economical Villager Trading Configuration",
+
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance": "Villager trade adjust balance",
+  "economical_villager_trading.midnightconfig.villagerTradeAdjustBalance.label.tooltip":
+  "Affects how quickly villager trades adjust due to usage.\nHigher numbers make it change slower, -1 uses vanilla adjustments.\nA value of 100 or greater completely disables this kind of adjustment.",
+
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments":
+  "Enable reputation price adjustments",
+  "economical_villager_trading.midnightconfig.enableReputationPriceAdjustments.label.tooltip":
+  "Allow trade adjustments for things like hurting villagers,\ncuring zombie villagers and just frequent trades.",
+
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier": "Villager XP multiplier",
+  "economical_villager_trading.midnightconfig.villagerXpMultiplier.label.tooltip":
+  "Multiplier applied to xp granted by villagers.",
+
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading":
+  "Enable villager levelup while trading",
+  "economical_villager_trading.midnightconfig.enableVillagerLevelupWhileTrading.label.tooltip":
+  "Normally villagers won't level up while you're trading with them.\nThis option allows them to level up.",
+
+  "economical_villager_trading.midnightconfig.doVanillaRestocks":
+  "Do vanilla restocks",
+  "economical_villager_trading.midnightconfig.doVanillaRestocks.label.tooltip":
+  "Restock villager trades several time per day, as in vanilla,\nin addition to restocking when buy/sell trades are locked.",
+
+  "text.economical_villager_trading.trade_closed_limit_title": "This trade is sold out",
+  "text.economical_villager_trading.trade_closed_limit": "Trade, level up, or wait to reopen it",
+
+  "text.economical_villager_trading.trade_closed_early_title": "This trade froze up",
+  "text.economical_villager_trading.trade_closed_early": "It's locked until its own cooldown expires"
+}
